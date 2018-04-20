@@ -1,0 +1,2 @@
+# LazyBet
+Lazy Betting
